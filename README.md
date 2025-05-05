@@ -32,7 +32,7 @@ C++/React browser feature development & macOS session restore
 **Defigo AS** (2020–2022)  
 Embedded access control systems with Qt, WebSockets & FreeRTOS
 
-**Pickr ** (2010–2020)  
+**Pickr** (2010–2020)  
 Robotic control using ROS, PCL; SLAM research & mentoring
 
 ---
